@@ -1,7 +1,5 @@
 # FakeVirus
 Fake python Virus to trick your fellow friend
-# FakeVirus
-A fake virus to trick your friend
 
 ## Installation
 ```bash
